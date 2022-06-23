@@ -4,7 +4,7 @@ module.exports = {
   fromDisplaySubText: '所爱隔山海，山海皆可平', // 收件箱展示的次级标题
   user: '1691929357@qq.com', // 发送者邮箱
   pass: 'hxwyvaxrksxseibc', // 发送者邮箱MTP协议密码
-  to: '1477013457@qq.com', // 发送到谁，填邮箱
+  to: '1691929357@qq.com', // 发送到谁，填邮箱
   weatherKey: '33369e365fe84eb68876f52a2ae51cca', // 和风天气key
   location: '101040100',  // 和风天气-成都武侯区的id
   type: '1,3,9', // 和风天气-生活指数type

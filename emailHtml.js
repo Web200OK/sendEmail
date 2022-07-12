@@ -13,7 +13,7 @@ function fn(weatherData, lifeData, word, imgurl, lovingDays,content,xingzuoyunsh
       <div>
         <!-- 天数 -->
         <div>
-          <p>亲爱的方方同学，见字如晤，今天是我们在一起的第${lovingDays}天，也是我们在努力克服异地恋的第${lovingDays}天！希望你今天拥有一整天的好心情，欢迎你随时点开与我的聊天框，我一直都在！</p>
+          <p>宝宝，现在的你应该还在睡觉，而我大概率已经起床啦~今天是我们在一起的第${lovingDays}天，也是我们在努力克服异地恋的第${lovingDays}天！暑假去学车记得做好防晒，注意安全哦！你的饱饱随时都在，有事没事要多找他摆呀！</p>
           </div>
         <!-- 图片 -->
         <div>
